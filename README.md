@@ -30,7 +30,7 @@ Several machine learning models were used in this project:
 5. **K-Nearest Neighbors (KNN)**
 
 ## Evaluation
-The models were evaluated using various metrics such as precision, recall, F1-score, and accuracy. The performance of each model is summarized below:
+The models were evaluated using various metrics such as precision, recall, F1-score, and accuracy. The performance of each model for the test set is summarized below:
 
 | Model               | Precision | Recall | F1-Score | Accuracy |
 |---------------------|-----------|--------|----------|----------|
